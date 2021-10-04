@@ -21,4 +21,5 @@ void main () {
 
 
     printf("Happy hacking mate!\n\n");
+    return 0;
 }
